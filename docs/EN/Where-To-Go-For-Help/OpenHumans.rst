@@ -40,6 +40,8 @@ Setup
 Sharing Opportunities
 ========================================
 * `OpenAPS Data Commons <https://www.openhumans.org/activity/openaps-data-commons/>`_
+  
+  The OpenAPS Data Commons was created to enable a simple way to share data sets from the DIYAPS community for research. The data is shared both with traditional researchers who will create traditional research studies, and with groups or individuals from the community who want to review data as part of their own research projects. The OpenAPS Data Commons uses the “Open Humans” platform to enable people to easily upload and share their data from DIYAPS including AndroidAPS, Loop, and OpenAPS. You can get your data into Open Humans via one of three ways: 1) use the AndroidAPS uploader option to get your data into Open Humans; 2) use the Nightscout Data Transfer to get your data into Open Humans; or 3) manually upload data files into Open Humans. Once you've created an account and gotten your data flowing into Open Humans, make sure to also join the OpenAPS Data Commons in order to donate your data for research if you choose.
 
 Terms of Use
 ========================================
